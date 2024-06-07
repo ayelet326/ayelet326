@@ -8,8 +8,12 @@
 - 👨‍💻 All of my projects are available at [github](https://github.com/ayelet326)
 
 - 📫 How to reach me **ayelet203320@gmail.com**
-
-
+<h3 align="left"> Connect with me: </h3>
+<p align="left">
+    <a href="mailto:ayelet203320@gmail.com" target="blank"><img align="center"
+            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="OskarMast#8877" height="30"
+            width="40" /></a>
+<p/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
