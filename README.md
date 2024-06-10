@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayelet326" alt="ayelet326" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/ayelet326)
+- 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/ayelet326?tab=repositories)**
 
-- 📫 How to reach me **ayelet203320@gmail.com**
+- 📫 How to reach me **Ayelet203320@gmail.com**
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
     <a href="mailto:ayelet203320@gmail.com" target="blank"><img align="center"
