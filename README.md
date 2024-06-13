@@ -19,7 +19,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,js,html,css,ts" /> 
     <img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,mysql,mongodb" />   
-    <img src="https://skillicons.dev/icons?i=react,angular,npm,jquery,bootstrap,regex,express,fastapi,selenium" />
+    <img src="https://skillicons.dev/icons?i=react,angular,npm,jquery,bootstrap,redux,regex,docker,express,fastapi,selenium" />
     <img src="https://skillicons.dev/icons?i=git,github,vite,postman,vscode,visualstudio,pycharm,eclipse,linux,ubuntu,ai,powershell" />
   </a>
 </p>
