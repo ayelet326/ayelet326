@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,py,js,html,css,ts" /> 
     <img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,mysql,mongodb" />   
     <img src="https://skillicons.dev/icons?i=react,angular,npm,jquery,bootstrap,redux,regex,docker,express,fastapi,selenium,spring" />
-    <img src="https://skillicons.dev/icons?i=git,github,vite,postman,vscode,visualstudio,pycharm,eclipse,idea,linux,ubuntu,ai,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,github,vite,postman,vscode,visualstudio,pycharm,eclipse,idea,linux,ubuntu,powershell" />
   </a>
 </p>
 
