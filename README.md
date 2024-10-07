@@ -11,7 +11,7 @@
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
      <a href="https://www.linkedin.com/in/ayelet-shefi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVbpkKJNsTiq3dXzlaIAB6A%3D%3D" target="blank"><img align="center" 
-        src="assets/linkedin.svg" alt="OskarMast#8877" height="30" width="40" /></a>
+        src="https://skillicons.dev/icons?i=linkedin" alt="OskarMast#8877" height="30" width="40" /></a>
       <a href="mailto:ayelet203320@gmail.com" target="blank"><img align="center"
             src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="OskarMast#8877" height="30" width="40" /></a>
 
